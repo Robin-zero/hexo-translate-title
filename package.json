@@ -1,7 +1,7 @@
 {
-  "name": "hexo-translate-title",
-  "version": "1.0.11",
-  "description": "Translate the Chinese title in the Hexo blog into english",
+  "name": "hexo-translate-title-plus",
+  "version": "1.0.12",
+  "description": "Translate the Chinese title in the Hexo blog into english, plus version!",
   "main": "index.js",
   "scripts": {},
   "keywords": [
@@ -14,8 +14,8 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/cometlj/hexo-translate-title"
+    "url": "https://github.com/Robin-zero/hexo-translate-title"
   },
-  "author": "cometlj",
+  "author": "Robin-zero",
   "license": "MIT"
 }

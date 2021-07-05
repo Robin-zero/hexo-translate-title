@@ -1,14 +1,16 @@
-## hexo-translate-title
+## hexo-translate-title-plus
 使用Google翻译，百度翻译和有道翻译将Hexo中的汉字标题转成英文标题，配置完成后直接翻译，无需手工修改标题内容
+
+**注：由于原作者一直未更新最新的版本到 npm 仓库，特 fork 此项目，发布后供自己使用，也欢迎大家一起使用！**
 
 ## 安装与使用
 
-[![NPM](https://nodei.co/npm/hexo-translate-title.png?compact=true)](https://npmjs.org/package/hexo-translate-title)
+[![NPM](https://nodei.co/npm/hexo-translate-title-plus.png?compact=true)](https://npmjs.org/package/hexo-translate-title-plus)
 
 ### 安装
 
 ```bash
-npm install hexo-translate-title --save
+npm install hexo-translate-title-plus --save
 ```
 
 ### 使用
@@ -86,7 +88,7 @@ translate_title:
 Google翻译 > Baidu翻译 > 有道翻译
 
 ## DEMO
-[星星之语's Blog](https://cometlj.github.io)
+[R 喵呜的小窝](https://rshow.top/)
 
 ## License
 MIT
